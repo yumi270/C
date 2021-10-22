@@ -1,0 +1,4 @@
+﻿  ソース.c
+C:\xampp\htdocs\研修\C\カレンダー\カレンダー\ソース.c(51,6): warning C4101: 'col': ローカル変数は 1 度も使われていません。
+C:\xampp\htdocs\研修\C\カレンダー\カレンダー\ソース.c(147,6): warning C4101: 'col': ローカル変数は 1 度も使われていません。
+  カレンダー.vcxproj -> C:\xampp\htdocs\研修\C\カレンダー\Debug\カレンダー.exe
